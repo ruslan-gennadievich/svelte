@@ -1,6 +1,6 @@
 import App from './App.svelte';
 
-import session from 'telegraf/session'
+console.log('test')
 
 const app = new App({
 	target: document.body,
